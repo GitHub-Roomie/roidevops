@@ -1,0 +1,3 @@
+[submodule "roi_legal_and_compliance"]
+	path = roi_legal_and_compliance
+	url = https://github.com/kigsRoomieIT/roi_legal_and_compliance.git
