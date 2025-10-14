@@ -23,7 +23,7 @@ twilio==9.2.3
 # ========== OpenAI & LangChain (VERSIONES COMPATIBLES) ==========
 openai==1.54.3
 langchain-openai==0.2.8
-langchain-core==0.3.13
+langchain-core>=0.3.17
 
 # ========== Base de Datos ==========
 sqlalchemy==2.0.36
