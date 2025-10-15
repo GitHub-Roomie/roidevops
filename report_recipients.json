@@ -1,0 +1,18 @@
+{
+  "groups": {
+    "cobranza": [
+      "cobranza@acme.com"
+    ],
+    "direccion": [
+      "director@acme.com",
+      "ceo@acme.com"
+    ],
+    "finanzas": [
+      "finanzas@acme.com",
+      "tesoreria@acme.com"
+    ],
+    "operaciones": [
+      "ops@acme.com"
+    ]
+  }
+}

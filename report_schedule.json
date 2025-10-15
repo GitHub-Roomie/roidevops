@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "frequency": "daily",
+  "time_of_day": "09:00",
+  "timezone": "America/Mexico_City",
+  "period_days": 30,
+  "formats": [
+    "pdf",
+    "xlsx"
+  ],
+  "groups": [
+    "finanzas",
+    "direccion",
+    "operaciones",
+    "cobranza"
+  ],
+  "emails": [
+    "luis97isc@gmail.com"
+  ],
+  "last_saved_at": "2025-10-04T02:47:12.380870",
+  "last_sent_at": null
+}
